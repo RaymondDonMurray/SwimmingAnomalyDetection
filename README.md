@@ -48,7 +48,7 @@ Using the [DeepFish](https://alzayats.github.io/DeepFish/) dataset and/or aquari
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/fish-anomaly-detection.git
+git clone https://github.com/yourusername/SwimmingAnomalyDetection.git
 cd fish-anomaly-detection
 
 # Create virtual environment
